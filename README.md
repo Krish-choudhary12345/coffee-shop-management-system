@@ -1,0 +1,1 @@
+A Python-based Coffee Shop Ordering System that simulates a real-world coffee ordering experience through a menu-driven interface. This project is built using Object-Oriented Programming (OOP) concepts and demonstrates fundamental Python programming skills
